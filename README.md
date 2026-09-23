@@ -4,7 +4,7 @@ Este repositorio contiene cuatro referencias visuales de landing pages ficticias
 
 Cada propuesta se encuentra en `pages/<proyecto>/` e incluye:
 
-- `landing.jpg`: referencia visual completa de la landing page.
+- `landing.png`: referencia visual completa de la landing page.
 - `design.md`: guía de paleta de colores, tipografías, recursos y criterios visuales.
 
 ## Propuestas
